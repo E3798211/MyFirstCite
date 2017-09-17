@@ -1,0 +1,22 @@
+.head_cyan {font-size: 60; line-height: 1.8; color: darkcyan}
+.head_green {font-size: 60; line-height: 1.8; color: #209020}
+.head_tmp    {font-size: 60; line-height: 1.8; color: #C0C0C0}
+
+.link_1_lower {font-size: 18; line-height: 1.2; color: white; margin: 40px; font-weight: 500}
+.link_1_upper {font-size: 25; line-height: 1.2; color: white; margin: 40px; font-weight: 600}
+
+.link_2_lower_table {font-size: 18; line-height: 1.2; color: white; margin: 40px 0px; font-weight: 500; font-style: italic}
+.link_2_upper_table {font-size: 20; line-height: 1.2; color: white; margin: 40px 0px; font-weight: 900; font-style: italic}
+.link_2_upper {font-size: 25; line-height: 1.2; color: white; font-weight: 600}
+
+.link_3_lower {font-size: 18; line-height: 1.2; text-indent: 1cm}
+.link_3_upper {font-size: 25; line-height: 1.2; font-weight: 600}
+.link_3_decor {font-size: 18; line-height: 1.2; text-decoration: "line_through"}
+
+I.table {font-size: 20; line-height: 2}
+
+a:link      {font-size: 18}
+a:visited   {font-size: 18}
+a:active    {font-size: 18}
+a:hover     {font-size: 18; text-decoration: none}
+
